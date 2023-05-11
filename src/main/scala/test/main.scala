@@ -9,7 +9,7 @@ object main:
     println(welcomeMessage())
     print(msg.printHallo())
     print(msg.printTestText())
-    print("Bye")
+    print("Bye to all")
 
   def welcomeMessage(): String =
     "Welcome to Test Repo!!"
